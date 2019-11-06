@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/19 16:45:22.000.773,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/09/22 21:26:20.000.599,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/10/10 12:27:22.000.417,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/10/11 19:11:01.000.780,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/10/11 19:19:32.000.093,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/10/13 23:55:00.000.629,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/10/14 00:13:37.000.785,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/10/19 13:02:24.000.297,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/10/27 21:36:31.000.345,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/11/08 21:46:18.000.789,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/12/05 18:29:13.000.720,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/07/05 17:38:57.000.377,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/07/05 17:58:43.000.350,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/07/05 18:34:59.000.405,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/07/05 18:36:17.000.334,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/07/05 18:37:58.000.249,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/11 19:03:42.000.742,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/13 20:24:16.000.578,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2019/08/13 20:24:19.000.733,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/08/15 12:55:43.000.067,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/09 17:49:22.000.702,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/09 17:53:14.000.614,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2019/09/09 17:53:17.000.238,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/09/09 20:03:47.000.769,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/09/09 20:03:47.000.917,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2019/09/09 20:35:41.000.076,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/13 18:10:38.000.591,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/13 18:10:50.000.559,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/16 16:03:11.000.045,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/17 15:14:16.000.225,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2019/09/17 15:14:17.000.696,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2019/09/17 16:29:53.000.491,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/09/19 16:16:18.000.386,=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2019/09/19 16:17:50.000.956,=C:\fernando\projdelphi\provas rad studio\web test\socket test\Unit3.pas</Transaction>
+    <Transaction>2019/09/19 16:18:12.000.627,C:\fernando\projdelphi\provas rad studio\web test\socket test\clientsocket.dproj=C:\Users\fernando\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2019/10/05 18:36:27.000.104,=C:\fernando\projdelphi\provas rad studio\web test\socket test\Unit1.pas</Transaction>
+    <Transaction>2019/10/06 12:25:22.000.391,C:\fernando\projdelphi\provas rad studio\web test\socket test\Unit1AddressDlg.pas=</Transaction>
+    <Transaction>2019/10/06 19:00:37.000.741,=C:\fernando\projdelphi\provas rad studio\web test\socket test\Unit1.pas</Transaction>
+    <Transaction>2019/10/06 19:01:42.000.058,C:\fernando\projdelphi\provas rad studio\web test\socket test\UnitAdd.pas=C:\fernando\projdelphi\provas rad studio\web test\socket test\Unit1.pas</Transaction>
+    <Transaction>2019/10/06 19:01:42.000.058,C:\fernando\projdelphi\provas rad studio\web test\socket test\UnitAdd.dfm=C:\fernando\projdelphi\provas rad studio\web test\socket test\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
