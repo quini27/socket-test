@@ -1,5 +1,5 @@
 # socket-test
-The program socket test for Windows let you control the NodeMCU 1.0 board through a user-friendly interface designed used the IDE RAD Studio Tokio 10.2. The communication between the program and the board is via a WiFi connection, using a local fixed IP address.
+The program socket test for Windows let you control the NodeMCU 1.0 board through a user-friendly interface designed using the IDE RAD Studio Tokio 10.2. The communication between the program and the board is via a WiFi connection, using a local fixed IP address.
 
 Before using this program, it is necessary to download the sketch test_socket.ino from the Arduino IDE to the nodeMCU board. This skecth connects the board to a fixed local IP address. This IP must be a free address of the router and must be previously known. The sketch reports the status of the connection in the serial monitor and starts the loop routine. In this routine the program waits until a client is connected, reads a command sent from the client, put on or put off the builtin led according to the command, and sends the status of the builtin button (pressed or unpressed) to the client. Once these tasks are completed, it closes the connection with the client.
 
